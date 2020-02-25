@@ -6,4 +6,11 @@ public class StackNode {
 	
 	StackNode next;
 
+	public StackNode(int val) {
+		super();
+		this.val = val;
+	}
+	
+	
+
 }
